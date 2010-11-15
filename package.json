@@ -10,6 +10,6 @@
   "engine": [ "node >=0.1.90" ],
   "main": "lib/node_sendgrid",
   "dependencies": {
-    "mailer": ">=0.3.0"
+    "mailer": ">=0.4.0"
   }
 }
